@@ -9,9 +9,13 @@ For many, tasks like cleaning the bathroom, doing the laundry, or washing up the
 With this in mind, the members of our group decided to help ourselves and others by building HelperBuddy. Our app breaks down these tasks into simple, visual, and motivating steps for the user to interact with. 
 
 ## Screenshots
-![Start a pre-programmed task](\https://github.com/MeganTherion/helper-buddy/blob/master/Screenshot%202022-11-12%20at%206.16.26%20PM.png?raw=true "Start a pre-programmed task")
+- Start a pre-programmed task
+![Start a pre-programmed task](https://github.com/MeganTherion/helper-buddy/blob/master/Screenshot%202022-11-12%20at%206.16.26%20PM.png?raw=true "Start a pre-programmed task")
+- Revisiting a previously-started task with progress bar
 ![Revisiting a previously-started task with progress bar](https://github.com/MeganTherion/helper-buddy/blob/master/Screenshot%202022-11-12%20at%206.18.12%20PM.png?raw=true "Revisiting a previously-started task with progress bar")
-![Creating a custom task]([/relative/path/to/img.jpg](https://github.com/MeganTherion/helper-buddy/blob/master/Screenshot%202022-11-12%20at%206.18.57%20PM.png)?raw=true "Creating a custom task")
+- Creating a custom task
+![Creating a custom task](https://github.com/MeganTherion/helper-buddy/blob/master/Screenshot%202022-11-12%20at%206.18.57%20PM.png?raw=true "Creating a custom task")
+- Completed a task!
 ![Completed a task!](https://github.com/MeganTherion/helper-buddy/blob/master/Screenshot%202022-11-12%20at%206.16.43%20PM.png?raw=true "Completed a task!")
 
 ## Project Setup
